@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: B.Eng @ <a href='https://iiis.tsinghua.edu.cn/'>Tsinghua IIIS</a>, Previous <a href='https://oier.baoshuo.dev/oier/10958'>OIer</a> & ACMer.
 
 profile:
   align: right
